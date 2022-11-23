@@ -1,0 +1,13 @@
+print('write a program to print biggest of two numbers:')
+a=24
+b=10
+if a>b:
+    print('a is big')
+else:
+    print('b is big')
+    
+OUTPUT 1:
+write a program to print biggest of two numbers:
+a is big
+
+
